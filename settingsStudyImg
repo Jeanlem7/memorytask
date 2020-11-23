@@ -1,0 +1,23 @@
+%% Settings for StudyImg experiment
+
+% Response keys 
+responseKeys = {'d','k'};
+%responseKeys = {};
+
+% Number of trials to show before a break (for no breaks, choose a number
+% greater than the number of trials in your experiment)
+breakAfterTrials = 10;
+
+% Background color
+backgroundColor = grey;
+
+% Text color
+textColor = black;
+
+% Image format of the image files in this experiment (eg, jpg, gif, png, bmp)
+imageFormat = 'png';
+
+
+% How long to pause in between trials (if 0, the experiment will wait for
+% the subject to press a key before every trial)
+timeBetweenTrials = 1;
